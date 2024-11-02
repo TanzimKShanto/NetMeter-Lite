@@ -10,9 +10,19 @@
 
 - **Real-Time Monitoring**: See your network speed, CPU usage, and memory usage in real-time.
 - **Customizable Interface**: Tailor the display to match your preferences.
+    - <img src="screenshots/options/netmeter-lite.PNG" alt="main-options">
+    - <img src="screenshots/options/skins.PNG" alt="skins">
 - **Lightweight and Efficient**: Designed to be resource-friendly for smooth performance.
 - **Skin Customizable**: Choose from 5 preloaded skins. [_Create an issue to request additional skins_]
+    - <img src="screenshots/labels/deadpool.png" alt="deadpool" width="300">
+    - <img src="screenshots/labels/batman.png" alt="batman" width="300">
+    - <img src="screenshots/labels/hero.png" alt="hero" width="300">
+    - <img src="screenshots/labels/kawai.png" alt="kawai" width="300">
+    - <img src="screenshots/labels/halloween.png" alt="halloween" width="300">
 - **Movable Widget**: Place the widget anywhere on your screen for full visibility.
+- **Transparent Background**: Check the _Transparent Background_ Box to make it transparent.
+    - <img src="screenshots/labels/taskbar.PNG" alt="halloween" width="300">
+    - <img src="screenshots/labels/btaskbar.PNG" alt="halloween" width="300">
 
 ## Installation
 **Please [click here](https://github.com/tanxim/NetMeter-lite/releases/latest) to download the latest version of NetMeter Lite.**
