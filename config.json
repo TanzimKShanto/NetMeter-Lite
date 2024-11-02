@@ -1,0 +1,52 @@
+{
+    "config":
+        {
+            "new": true,
+            "x": null,
+            "y": null,
+            "bg": null,
+            "size": null,
+            "color": null,
+            "style": "normal",
+            "family": "Verdana",
+            "other_on": true,
+            "interval": 1000,
+            "unit": 1,
+            "transparent": true,
+            "lock": false,
+            "txt1" : "U:\nD:",
+            "txt2" : "1024.00 MB/s\n700.87 MB/s",
+            "txt3" : "CPU:\nMEM:",
+            "txt4" : "100.0%\n78%",
+            "skin": 0,
+            "always_on_top": false
+        },
+
+    "skins": [
+        {
+            "path": "skins/batman.png",
+            "color": "#0060a2",
+            "bg": "#E3F5FF"
+        },
+        {
+            "path": "skins/deadpool.png",
+            "color": "#fd0304",
+            "bg": "#FFEAED"
+        },
+        {
+            "path": "skins/kawai.png",
+            "color": "#ff006e",
+            "bg": "#FFDDE1"
+        },
+        {
+            "path": "skins/halloween.png",
+            "color": "#1b5d00",
+            "bg": "#f4ffef"
+        },
+        {
+            "path": "skins/todoroki.png",
+            "color": "#a83c00",
+            "bg": "#FFE9DF"
+        }
+    ]
+}

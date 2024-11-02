@@ -1,0 +1,4 @@
+Pillow==11.0.0
+psutil==6.1.0
+PyInstaller==6.11.0
+win32gui==221.6
