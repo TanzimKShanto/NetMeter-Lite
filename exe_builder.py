@@ -9,6 +9,6 @@ PyInstaller.__main__.run([
     '--add-data=setting.ico;.',
     '--add-data=setting.png;.',
     '--icon=netmeter.ico',
-    '--upx-dir=E:/upx-4.2.4-win64/upx.exe',
+    #'--upx-dir=E:/upx-4.2.4-win64/upx.exe',
     'main.py'
 ])
