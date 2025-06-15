@@ -1,6 +1,6 @@
-[![GitHub License](https://img.shields.io/github/license/tanxim/NetMeter-Lite?style=flat-square)](https://github.com/Tanxim/NetMeter-Lite/blob/main/LICENSE)
-[![GitHub Release](https://img.shields.io/github/v/release/tanxim/NetMeter-Lite?style=flat-square&color=blue)](https://github.com/tanxim/NetMeter-Lite/releases/latest)
-[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/tanxim/netmeter-lite/total?style=flat-square&color=Green)](https://github.com/tanxim/NetMeter-Lite/releases)
+[![GitHub License](https://img.shields.io/github/license/tanzimkshanto/NetMeter-Lite?style=flat-square)](https://github.com/Tanzimkshanto/NetMeter-Lite/blob/main/LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/tanzimkshanto/NetMeter-Lite?style=flat-square&color=blue)](https://github.com/tanzimkshanto/NetMeter-Lite/releases/latest)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/tanzimkshanto/netmeter-lite/total?style=flat-square&color=Green)](https://github.com/tanzimkshanto/NetMeter-Lite/releases)
 
 # NetMeter Lite
 
